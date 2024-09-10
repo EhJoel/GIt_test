@@ -1,2 +1,2 @@
 # GIt_test
-test odin project
+Helo Odin!
